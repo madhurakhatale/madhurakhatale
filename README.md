@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Madhura Khatale 👋
 
-<!--
-**madhurakhatale/madhurakhatale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Computer Engineering | Student | Cybersecurity & AI Enthusiast**
 
-Here are some ideas to get you started:
+I’m interested in **Cybersecurity, Artificial Intelligence, and Software Development**.
+I enjoy learning new technologies and building practical projects that help solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔐 Interests
+
+* Cybersecurity
+* Artificial Intelligence & Machine Learning
+* Software Development
+* Web Development
+
+### 🛠️ Technologies & Tools
+
+* Python
+* C / C++
+* Java
+* JavaScript
+* HTML & CSS
+* MySQL
+* Git & GitHub
+* Streamlit
+
+### 🚀 Currently
+
+* Exploring Cybersecurity and AI
+* Building practical projects
+* Improving my programming and problem-solving skills
+
+### 📌 Featured Project
+
+**AI Resume Analyzer**
+An AI-based application that analyzes resumes against job descriptions and provides a matching score with skill-based insights.
+
+---
+
+⭐ *Always learning. Always building.*
